@@ -1,0 +1,14 @@
+{
+  "name": "webpack-fundamentals",
+  "version": "1.0.0",
+  "description": "Explore core webpack concepts",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Alexey Dudko",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {}
+}
